@@ -12,3 +12,4 @@ This is a course is about getting your 3D Models from Blender into Unity.
 ## FI03 Using Empties
 ## FI04 Origins and Pivot Points
 ## FI05 Managing Materials
+## FI06 Exporting Manually
