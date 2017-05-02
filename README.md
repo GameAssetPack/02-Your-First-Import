@@ -83,6 +83,3 @@ Armed with the knowledge you can move on the the next section and get
 Texturing!
 
 (Unique Video Reference: 99_BI_UAP)
-
----
-Find out more about our [3D Model Mastery Course](https://www.udemy.com/unityassets/?couponCode=GitHubDiscount).
